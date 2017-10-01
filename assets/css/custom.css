@@ -1,0 +1,14 @@
+.navbar-nav > li > a{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-right: 10px;
+}
+.submit-button{
+	width: 80%;
+}
+.errmsg{
+    color: red;
+}
+.hidden {
+     visibility:hidden;
+}
